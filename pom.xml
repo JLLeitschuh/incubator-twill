@@ -152,7 +152,7 @@
         <asm.version>5.0.2</asm.version>
         <kafka.version>0.8.0</kafka.version>
         <zookeeper.version>3.4.5</zookeeper.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <commons-compress.version>1.5</commons-compress.version>
         <hadoop.version>[2.0.2-alpha,2.3.0]</hadoop.version>
         <hadoop20.output.dir>target/hadoop20-classes</hadoop20.output.dir>
